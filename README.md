@@ -17,6 +17,7 @@ The project demonstrates the use of ServiceNow application development, forms, t
 📋 Maintain passenger and ticket information.
 ⚙️ Reduce manual effort in ticket generation.
 ✅ Provide a simple and user-friendly ticketing process.
+
 ✨ Key Features
 Feature	Description
 👤 Passenger Details	Capture the required passenger information.
@@ -26,6 +27,7 @@ Feature	Description
 🎫 Ticket Generation	Generate a digital metro ticket.
 📱 QR Code Generation	Generate a QR code for the digital ticket.
 📋 Ticket Management	Store and manage ticket-related information.
+
 🔄 System Workflow
                  👤 USER
                     │
@@ -54,6 +56,7 @@ Feature	Description
              ✅ Digital Ticket
 🎥 Project Demo Video
 The complete demonstration of the Metro Ticket Generation System is available below:
+ Demo Video : https://drive.google.com/file/d/1wR-6UllENVvLx4cbwiwKuGjRFxbpKrI2/view?usp=drive_link
 
 📂 Project Phases
 The project documentation is organized into the following phases:
